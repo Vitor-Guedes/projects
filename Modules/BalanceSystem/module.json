@@ -1,0 +1,13 @@
+{
+    "name": "BalanceSystem",
+    "alias": "balancesystem",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\BalanceSystem\\Providers\\BalanceSystemServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
